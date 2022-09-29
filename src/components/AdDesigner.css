@@ -1,0 +1,18 @@
+.vote-box {
+  border: 2px solid #222;
+  padding: 10px;
+  text-align: center;
+}
+
+.ad-control button {
+  margin: 0 5px 0 5px;
+  color: white;
+}
+
+.ad-control .active {
+  background-color: #1e60a9;
+}
+
+.ad-control .passive {
+  background-color: gray;
+}
